@@ -13,7 +13,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="ASCOM.Common.Components" Version="1.0.0-alpha22a" />
+    <PackageReference Include="ASCOM.Common.Components" Version="1.0.0-alpha29" />
   </ItemGroup>
 
   <ItemGroup>
